@@ -1,0 +1,15 @@
+C:\Users\bodap\source\repos\BasicLogicalProgrammesCSharp\BasicLogicalProgrammesCSharp\bin\Debug\net6.0\BasicLogicalProgrammesCSharp.exe
+C:\Users\bodap\source\repos\BasicLogicalProgrammesCSharp\BasicLogicalProgrammesCSharp\bin\Debug\net6.0\BasicLogicalProgrammesCSharp.deps.json
+C:\Users\bodap\source\repos\BasicLogicalProgrammesCSharp\BasicLogicalProgrammesCSharp\bin\Debug\net6.0\BasicLogicalProgrammesCSharp.runtimeconfig.json
+C:\Users\bodap\source\repos\BasicLogicalProgrammesCSharp\BasicLogicalProgrammesCSharp\bin\Debug\net6.0\BasicLogicalProgrammesCSharp.dll
+C:\Users\bodap\source\repos\BasicLogicalProgrammesCSharp\BasicLogicalProgrammesCSharp\bin\Debug\net6.0\BasicLogicalProgrammesCSharp.pdb
+C:\Users\bodap\source\repos\BasicLogicalProgrammesCSharp\BasicLogicalProgrammesCSharp\obj\Debug\net6.0\BasicLogicalProgrammesCSharp.csproj.AssemblyReference.cache
+C:\Users\bodap\source\repos\BasicLogicalProgrammesCSharp\BasicLogicalProgrammesCSharp\obj\Debug\net6.0\BasicLogicalProgrammesCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bodap\source\repos\BasicLogicalProgrammesCSharp\BasicLogicalProgrammesCSharp\obj\Debug\net6.0\BasicLogicalProgrammesCSharp.AssemblyInfoInputs.cache
+C:\Users\bodap\source\repos\BasicLogicalProgrammesCSharp\BasicLogicalProgrammesCSharp\obj\Debug\net6.0\BasicLogicalProgrammesCSharp.AssemblyInfo.cs
+C:\Users\bodap\source\repos\BasicLogicalProgrammesCSharp\BasicLogicalProgrammesCSharp\obj\Debug\net6.0\BasicLogicalProgrammesCSharp.csproj.CoreCompileInputs.cache
+C:\Users\bodap\source\repos\BasicLogicalProgrammesCSharp\BasicLogicalProgrammesCSharp\obj\Debug\net6.0\BasicLogicalProgrammesCSharp.dll
+C:\Users\bodap\source\repos\BasicLogicalProgrammesCSharp\BasicLogicalProgrammesCSharp\obj\Debug\net6.0\refint\BasicLogicalProgrammesCSharp.dll
+C:\Users\bodap\source\repos\BasicLogicalProgrammesCSharp\BasicLogicalProgrammesCSharp\obj\Debug\net6.0\BasicLogicalProgrammesCSharp.pdb
+C:\Users\bodap\source\repos\BasicLogicalProgrammesCSharp\BasicLogicalProgrammesCSharp\obj\Debug\net6.0\BasicLogicalProgrammesCSharp.genruntimeconfig.cache
+C:\Users\bodap\source\repos\BasicLogicalProgrammesCSharp\BasicLogicalProgrammesCSharp\obj\Debug\net6.0\ref\BasicLogicalProgrammesCSharp.dll
